@@ -5,6 +5,9 @@
 ## Usage
 
 **Install**:
+```bash
+$ npm install --save-dev @kunzai/prettier-config
+```
 
 ```bash
 $ yarn add --dev @kunzai/prettier-config
