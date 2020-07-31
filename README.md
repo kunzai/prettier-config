@@ -6,7 +6,7 @@
 
 **Install**:
 ```bash
-$ npm install --save-dev @kunzai/prettier-config
+$ npm install --save-dev https://github.com/kunzai/prettier-config
 ```
 
 ```bash
